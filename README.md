@@ -1,6 +1,6 @@
 # 🧾 Sistema de Punto de Venta (POS) – Java Swing + MySQL
 
-Sistema de Punto de Venta (POS) desarrollado para pequeños negocios, enfocado en la **gestión de inventario**, **ventas**, **usuarios** y **reportes**, utilizando **Java Swing**, **MySQL** y una **arquitectura modular MVC**.
+Sistema de Punto de Venta (POS) desarrollado para pequeños negocios, enfocado en la **gestión de inventario**, **ventas**, **usuarios** y **reportes**, utilizando **Java Swing**, **MySQL** y una **arquitectura modular MVC**. El IDE que se usa en el proyectos en Apache NetBeans IDE 23.
 
 ---
 
