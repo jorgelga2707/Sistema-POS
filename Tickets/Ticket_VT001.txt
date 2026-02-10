@@ -1,0 +1,20 @@
+========================================
+           NOMBRE DE TU EMPRESA         
+       RUC: 20123456789 - LIMA, PERU    
+========================================
+BOLETA ELECTRÓNICA: VT001
+Fecha: 19/12/2025   Hora: 21:37:57
+Vendedor: admin
+----------------------------------------
+CNT  PRODUCTO           P.UNIT      TOTAL
+----------------------------------------
+3    Arroz Costeño 1kg  4.20        12.60
+5    Pasta Dental Co... 6.50        32.50
+----------------------------------------
+OP. GRAVADA (Subtotal):   S/      38.22
+IGV (18%):                S/       6.88
+TOTAL A PAGAR:            S/      45.10
+========================================
+      ¡GRACIAS POR PREFERIRNOS!         
+     Conserve su ticket para reclamos   
+========================================

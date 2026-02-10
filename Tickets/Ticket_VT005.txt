@@ -1,0 +1,19 @@
+========================================
+           NOMBRE DE TU EMPRESA         
+       RUC: 20123456789 - LIMA, PERU    
+========================================
+BOLETA ELECTRÓNICA: VT005
+Fecha: 19/12/2025   Hora: 17:25:45
+Vendedor: ventas
+----------------------------------------
+CNT  PRODUCTO           P.UNIT      TOTAL
+----------------------------------------
+2    Papas Lays         2,50         5,00
+----------------------------------------
+OP. GRAVADA (Subtotal):   S/       4,24
+IGV (18%):                S/       0,76
+TOTAL A PAGAR:            S/       5,00
+========================================
+      ¡GRACIAS POR PREFERIRNOS!         
+     Conserve su ticket para reclamos   
+========================================

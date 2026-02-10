@@ -1,0 +1,19 @@
+========================================
+           NOMBRE DE TU EMPRESA         
+       RUC: 20123456789 - LIMA, PERU    
+========================================
+BOLETA ELECTRÓNICA: VT004
+Fecha: 19/12/2025   Hora: 17:13:12
+Vendedor: admin
+----------------------------------------
+CNT  PRODUCTO           P.UNIT      TOTAL
+----------------------------------------
+20   Galletas Oreo      4,20        84,00
+----------------------------------------
+OP. GRAVADA (Subtotal):   S/      71,19
+IGV (18%):                S/      12,81
+TOTAL A PAGAR:            S/      84,00
+========================================
+      ¡GRACIAS POR PREFERIRNOS!         
+     Conserve su ticket para reclamos   
+========================================

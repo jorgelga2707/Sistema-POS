@@ -1,0 +1,19 @@
+========================================
+           NOMBRE DE TU EMPRESA         
+       RUC: 20123456789 - LIMA, PERU    
+========================================
+BOLETA ELECTRÓNICA: VT006
+Fecha: 19/12/2025   Hora: 00:57:33
+Vendedor: admin
+----------------------------------------
+CNT  PRODUCTO           P.UNIT      TOTAL
+----------------------------------------
+2    Galletas de Avena  3,00         6,00
+----------------------------------------
+OP. GRAVADA (Subtotal):   S/       5,08
+IGV (18%):                S/       0,92
+TOTAL A PAGAR:            S/       6,00
+========================================
+      ¡GRACIAS POR PREFERIRNOS!         
+     Conserve su ticket para reclamos   
+========================================

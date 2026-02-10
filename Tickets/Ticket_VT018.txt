@@ -1,0 +1,14 @@
+----------------------------------------
+     SUPERMERCADO [NOMBRE DE TU TIENDA]     
+----------------------------------------
+Ticket Venta N°: VT018
+Fecha y Hora: 16/12/2025 19:05:20
+Vendedor: admin
+----------------------------------------
+PRODUCTO        CANT.   SUBTOTAL
+----------------------------------------
+Shampoo Head & Shoulders 1          18,00
+----------------------------------------
+TOTAL FINAL (S/):          18,00
+----------------------------------------
+GRACIAS POR SU COMPRA

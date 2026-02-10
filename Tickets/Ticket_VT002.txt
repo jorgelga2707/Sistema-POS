@@ -1,0 +1,19 @@
+========================================
+           NOMBRE DE TU EMPRESA         
+       RUC: 20123456789 - LIMA, PERU    
+========================================
+BOLETA ELECTRÓNICA: VT002
+Fecha: 19/12/2025   Hora: 16:30:02
+Vendedor: admin
+----------------------------------------
+CNT  PRODUCTO           P.UNIT      TOTAL
+----------------------------------------
+2    Agua San Luis 6... 2,00         4,00
+----------------------------------------
+OP. GRAVADA (Subtotal):   S/       3,39
+IGV (18%):                S/       0,61
+TOTAL A PAGAR:            S/       4,00
+========================================
+      ¡GRACIAS POR PREFERIRNOS!         
+     Conserve su ticket para reclamos   
+========================================
