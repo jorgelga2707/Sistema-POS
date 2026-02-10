@@ -125,6 +125,7 @@ La interfaz fue desarrollada con **Java Swing**, enfocándose en:
 
 ## 🗂️ Estructura del Proyecto
 
+```bash
 src/
 │
 ├── Database/
@@ -162,6 +163,7 @@ src/
 │ ├── RegistroVentas.java
 │ └── ReporteGeneral.java
 
+```
 ---
 
 ## 🛠️ Tecnologías Utilizadas
